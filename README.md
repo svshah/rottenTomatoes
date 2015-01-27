@@ -19,5 +19,5 @@ Walkthrough
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Credits
-Rotten Tomatoes API
-AFNetworking
+[Rotten Tomatoes API][]
+[AFNetworking][]
